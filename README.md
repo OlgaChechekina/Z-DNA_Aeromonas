@@ -26,9 +26,6 @@ Organisms used: *Aeromonas caviae*, *Aeromonas dhakensis*, *Aeromonas encheleia*
 | Z-DNA length  | 73393	| 82446	| 74504	| 81658 |	68094 |
 
 
-# Гистограмма значений zh-score
-![](./histograms/clusters.png)
-
 **Расположение Z - ДНК в промотерах**
 |   |   |
 |---|---|
@@ -76,13 +73,21 @@ WP_024946079.1      YRELGFRPRQKLPDYYGHGQHAHRLVLALKQA-------
 
 
 # Предсказание G-квадруплексов
-
 ## G квадруплексы в промотерах
 
-## Множественно белковое выравнивание
-Файлы до Clustal и после приведены в папке *G aligment*
 
- 
-## Визуализация расположения G для кластеров
+# Number of quadruplex regions and quadruplex length
 
+| Species  |  A_caviae	| A_dhakensis |	A_encheleia	| A_hydrophila | A_media |
+|---|--|--|---|--|---|
+| Number of quadruplex regions | 3919	| 2998 |	3149 |	2815 |	3302 | 
+| Quadruplex length  | 121057 |	91507 |	96600 |	85445 |	101636 |
+
+**Quadruplexes visualization**
+|   |   |
+|---|---|
+| ![](./visualization/quadruplexes/cluster1.png) | ![](./visualization/quadruplexes/cluster2.png)  |
+|  ![](./visualization/quadruplexes/cluster3.png) | ![](./visualization/quadruplexes/cluster4.png)  |
+| ![](./visualization/quadruplexes/cluster5.png)  | ![](./visualization/quadruplexes/cluster6.png)   |
+| ![](./visualization/quadruplexes/cluster7.png)  | ![](./visualization/quadruplexes/cluster8.png)   |
 
