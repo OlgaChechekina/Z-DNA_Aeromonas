@@ -94,8 +94,11 @@ R-scripts used for the analysis can be gained via:
 ```
   
 <details>
-<summary>pqsfinder</summary>
+<summary>configure</summary>
+  
 ```
+  
 !wget https://raw.githubusercontent.com/narek01/hse22_project/main/configure.r
+
 ```
 <details>
