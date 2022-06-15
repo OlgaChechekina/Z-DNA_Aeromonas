@@ -1,82 +1,70 @@
 # bradyrhizobium
 # hse22_project
-Для анализа был выбран таксон Gammaproteobacteria, род Bradyrhizobeum.
+Для анализа был выбран таксон Gammaproteobacteria, род Aeromonas.
 
-[Ссылка на colab](https://colab.research.google.com/drive/1LF5wrfa9TW6ynDy_8dW5y0z_xeDYcvB6?usp=sharing)
+[Ссылка на colab](https://colab.research.google.com/drive/1_5P72lwLC4ZLEUQdjOeQWWKfvtPD_CWY?usp=sharing)
 
-# Общая информация
-*Bradyrhizobium diazoefficiens*,
+# General info
+Organisms used: *Aeromonas caviae*, *Aeromonas dhakensis*, *Aeromonas encheleia*, *Aeromonas hydrophila*, *Aeromonas mediae* 
 
-*Bradyrhizobium elkanii* ,
-
-*Bradyrhizobium guangdongense* ,
-
-*Bradyrhizobium guangxiense* ,
-
-*Bradyrhizobium guangzhouense* 
 # overview table
 
-| Species  |  Genes number | Genome coverage | Genome length |
+| Species  |  Genes number | Genome coverage | Genome length | Genome + plasmid length | Number of sequences |
 |---|--|--|---|
-| B_diazoefficiens | 8330.00 |  85.96 | 8910608.00 | 
-| B_elkanii  | 9139.00 | 84.34  | 9548186.00 |
-| B_guangdongense  | 7092.00  | 87.58 | 7456045.00 |
-| B_guangxiense  | 6876.00 | 88.01 | 7220948.00 |
-| B_guangzhouense | 6754.00 | 88.19 | 7158886.00 |
+| A_caviae | 4182.0 | 87.89 | 4507652.00 | 4565788.00 | 2.00 |
+| A_dhakensis  | 4373.00 | 88.46  | 4771925.00 | 4771925.00 | 1.00 |
+| A_encheleia | 4232.00  | 87.57 | 4542521.00 | 4542521.00 | 1.00 |
+| A_hydrophila  | 4370.00 | 88.42 | 4766062.00 | 4766062.00 | 1.00 |
+| A_media | 4183.00 | 87.77 | 4521851.00 | 4531033.00 | 2.00 |
+
 
 # Number of Z-DNA regions and Z-DNA length
 
-| Species  |  B_diazoefficiens | B_elkanii | B_guangdongense |  B_guangxiense | B_guangzhouense |
+| Species  |  A_caviae	| A_dhakensis |	A_encheleia	| A_hydrophila | A_media |
 |---|--|--|---|--|---|
-| Number of Z-DNA regions| 8910608 | 9548186 | 7456045 | 7220948 | 7158886 | 
-| Z-DNA length  | 13611812 | 14572058  | 11387723 | 11029431 | 10930491 |
+| Number of Z-DNA regions| 15841 |	17892 |	16293 |	17802 |	14705 | 
+| Z-DNA length  | 73393	| 82446	| 74504	| 81658 |	68094 |
 
 
 # Гистограмма значений zh-score
-|   |   |
-|---|---|
-| ![](./histograms/B_diazoefficiens.png) | ![](./histograms/B_elkanii.png)  |
-|  ![](./histograms/B_guangdongense.png) | ![](./histograms/B_guangxiense.png)  |
-| ![](./histograms/B_guangzhouense.png)  |   |
+![](./histograms/clusters.png)
 
 **Расположение Z - ДНК в промотерах**
-![](./img/Z_DNA_prom.jpg)
+|   |   |
+|---|---|
+| ![](./visualization/cluster1.png) | ![](./visualization/cluster2.png)  |
+|  ![](./visualization/cluster3.png) | ![](./visualization/cluster4.png)  |
+| ![](./visualization/cluster5.png)  | ![](./visualization/cluster6.png)   |
+| ![](./visualization/cluster7.png)  | ![](./visualization/cluster8.png)   |
+
 
 ## Multiple protein alignmentМножественно белковое выравнивание
-Files are in the folder *aligment*, one of aligned sequences is provided here
+Files are in the folder *aligment*, one of alignements is provided here
 
 <details>
 <summary>Выравнивание для кластера №1</summary>
 
 ```
+WP_042880284.1      MLTVRAARADDLGAIVKLERYCFPPEVAFGRSRWHYLLNQAKGRTLLLQDEKAQVMGYVS
+WP_041206513.1      MLTVRAARTDDLGAIVKLERYCFPPEVAFGRSRWHYLLSHARGRTLLLLDEKAQLMGYLS
+WP_042651955.1      MLTLRAARTDDLGAIVKLERYCFPPEVAFGRSRWHYLLTQAKGRTLLLLDDKAQLMGYLS
+WP_226014131.1      MLTVRAARTDDLGAIVKLERYCFPPEVAFGRSRWHYLLTQAKGRTLLVLDQQEQLMGYLC
+WP_024946079.1      MLTVRAARTDDLGAIVKLERYCFPPEVAFGRSRWHYLLTHAKGRTLLVLDQQEQLMGYLC
+                    ***:****:*****************************.:*:*****: *:: *:***:.
 
-WP_011085642.1      MSKANLLDRRQVVSTLLADRKDVVAIGGLGASTNDICAAGDHARNFYLWGGMGGAAMIGL
-WP_128953029.1      MSKANLLDRRQVVSALLADRKDVVAIGGLGASTNDITAAGDHARNFYLWGGMGGAAMIGL
-WP_128924455.1      MSKANLLDRRQVVSTLLAHRKDAVAIGGLGASTNDMCAAGDHARNFYLWGGMGGAAMIGL
-WP_128967513.1      MSKANLLDRRQVVSALLANRKDVVAIGGLGASTNDITAAGDHARNFYLWGGMGGAAMIGL
-WP_016842925.1      MSKANLLDRRAVVAELLKDRKGAFAVGGLGASTYDIAAAGDHDRNFYLWGGMGGAVMIGL
-                    ********** **: ** .**...*:******* *: ***** ************.****
+WP_042880284.1      VLEHKGWDRLIIQTLAIRWTVRRQGWARRLLEQVIREGREAGWGAIRLEVADANPEARTL
+WP_041206513.1      VLEHRGWNRLIIQTLAIRWTVRRQGWARRLLEQVIREGREAGWGAIRLEVADANPEAQTL
+WP_042651955.1      VLEHRGWDRLVIQTLAIRWTVRRQGWARRMLEQVIQEGRQAGWGAIRLEVADANPEAQTL
+WP_226014131.1      LLEHRGWDRLIIQTLAIRWTIRRQGWARRLLEQVVREGKEAGWGAIRLEVGDANEEAQAL
+WP_024946079.1      LLEHRGWDRLIIQTLAIRWTIRRQGWARRLLEQVIQEGKEAGWGAIRLEVGDANEEAQAL
+                    :***:**:**:*********:********:****::**::**********.*** **::*
 
-WP_011085642.1      GLALAQPKLPVLVITGDGEMLMGMGSLATIGLQKPSNLSIVVLDNEAYGETGGQTSHTSA
-WP_128953029.1      GLALAQPKLPVLVITGDGEMLMGMGSLATIGLQKPSNLSIVVLDNEAYGETGGQTSHTSA
-WP_128924455.1      GLALAQPKLPVLVITGDGEMLMGMGSLATIGLQKPSNLSIAVLDNEAYGETGGQTSHTST
-WP_128967513.1      GLALAQPTLPVLVITGDGEMLMGMGSLATIGLQKPANLSIAVLDNEAYGETGGQTSHTSA
-WP_016842925.1      GLALAQPTLPVVVITGDGEMLMGMGSLATVGLQQPKNLSIIVLDNEAYGETGGQASHTGG
-                    *******.***:*****************:***:* **** *************:***. 
-
-WP_011085642.1      AADLVGVARACGIGDARAISTMAEVEAFAKAVHDVSAGPRFANVKIDSASLERILPSRDG
-WP_128953029.1      AADLVGVARACGIADSRAISTMAEVEAFAKAVHDLSAGPRFANVKIDSANVERILPSRDG
-WP_128924455.1      AADLVGVAKACGIKDSRAVTTMAEVEAFAKAVHDVSAGPRFANVKIDSAGLERILPTRDG
-WP_128967513.1      AADLVGVARACGIKDSRAISTMAEVEAFAKAVHDLTAGPRFASVKIDSANLERILPTRDG
-WP_016842925.1      TADLVGVAKACGIGDSRAISTMAEVEAFASSLQDVTAGPRFASAKIDGANLERVLSSRDG
-                    :*******:**** *:**::*********.:::*::******..***.*.:**:*.:***
-
-WP_011085642.1      TYIVNRIRGDLGFQPI
-WP_128953029.1      TFIVNRIRGDLGFRPI
-WP_128924455.1      TYILNRIRGDLGFQPI
-WP_128967513.1      TYILNRIRGDLGFQPI
-WP_016842925.1      TYLVNRIRGSIGHTPI
-                    *:::*****.:*. **
+WP_042880284.1      YQGLGFRPGVRLPDYYGPGQHAHRLVLALGDERQEPS--
+WP_041206513.1      YHGLGFRPRLRLPDYYGPGQHAHRLVLALKQA-------
+WP_042651955.1      YQRLGFRPRLRLPDYYGPGLHAHRLVLPLGSGEQGLA--
+WP_226014131.1      YRGLGFRPRQKLLDYYGHGQHAHRLVLKLAGERREEERG
+WP_024946079.1      YRELGFRPRQKLPDYYGHGQHAHRLVLALKQA-------
+                    *: *****  :* **** * ******* *          
 
 ```
  
