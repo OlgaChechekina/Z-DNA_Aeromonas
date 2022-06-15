@@ -1,4 +1,4 @@
-# bradyrhizobium
+# Aeromonas
 # hse22_project
 Для анализа был выбран таксон Gammaproteobacteria, род Aeromonas.
 
