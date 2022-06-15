@@ -25,7 +25,10 @@ Organisms used: *Aeromonas caviae*, *Aeromonas dhakensis*, *Aeromonas encheleia*
 | ![](./histograms/A_media.png)  |  |
 
 **homologuous clusters**
+
 ![](./histograms/clusters.png)
+number of clusters: 4318
+
 
 # Number of Z-DNA regions and Z-DNA length
 
