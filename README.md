@@ -1,11 +1,11 @@
 # Aeromonas
 # hse22_project
-Для анализа был выбран таксон Gammaproteobacteria, род Aeromonas.
+Gammaproteobacteria, Aeromonas were used for the analysis.
 
 [Ссылка на colab](https://colab.research.google.com/drive/1_5P72lwLC4ZLEUQdjOeQWWKfvtPD_CWY?usp=sharing)
 
 # General info
-Organisms used: *Aeromonas caviae*, *Aeromonas dhakensis*, *Aeromonas encheleia*, *Aeromonas hydrophila*, *Aeromonas mediae* 
+Organisms analyzed: *Aeromonas caviae*, *Aeromonas dhakensis*, *Aeromonas encheleia*, *Aeromonas hydrophila*, *Aeromonas mediae* 
 
 # overview table
 
@@ -17,7 +17,7 @@ Organisms used: *Aeromonas caviae*, *Aeromonas dhakensis*, *Aeromonas encheleia*
 | A_hydrophila  | 4370.00 | 88.42 | 4766062.00 | 4766062.00 | 1.00 |
 | A_media | 4183.00 | 87.77 | 4521851.00 | 4531033.00 | 2.00 |
 
-**aaaa distribution**
+**ZH-Score histograms**
 |   |   |
 |---|---|
 | ![](./histograms/A_caviae.png) | ![](./histograms/A_dhakensis.png)  |
