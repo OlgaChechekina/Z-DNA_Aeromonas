@@ -17,8 +17,9 @@ Organisms analyzed: *Aeromonas caviae*, *Aeromonas dhakensis*, *Aeromonas enchel
 | A_hydrophila  | 4370.00 | 88.42 | 4766062.00 | 4766062.00 | 1.00 |
 | A_media | 4183.00 | 87.77 | 4521851.00 | 4531033.00 | 2.00 |
 
-Other stats: \t
+Other stats: 
 https://docs.google.com/spreadsheets/d/1qlAjLNwIeevnEVP2mM9GoxCy4qObwQDC5udRDtC-Vw8/edit?usp=sharing
+
 **ZH-Score histograms**
 |   |   |
 |---|---|
