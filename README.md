@@ -84,3 +84,7 @@ WP_024946079.1      YRELGFRPRQKLPDYYGHGQHAHRLVLALKQA-------
 | ![](./visualization/quadruplexes/cluster5.png)  | ![](./visualization/quadruplexes/cluster6.png)   |
 | ![](./visualization/quadruplexes/cluster7.png)  | ![](./visualization/quadruplexes/cluster8.png)   |
 
+R-scripts used for the analysis can be gained via
+!wget https://raw.githubusercontent.com/narek01/hse22_project/main/pqsfinder.r
+!wget https://raw.githubusercontent.com/narek01/hse22_project/main/configure.r
+
