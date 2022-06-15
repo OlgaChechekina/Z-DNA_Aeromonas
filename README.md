@@ -76,6 +76,15 @@ WP_024946079.1      YRELGFRPRQKLPDYYGHGQHAHRLVLALKQA-------
 | Number of quadruplex regions | 3919	| 2998 |	3149 |	2815 |	3302 | 
 | Quadruplex length  | 121057 |	91507 |	96600 |	85445 |	101636 |
 
+
+**aaa distribution**
+|   |   |
+|---|---|
+| ![](./histograms/A_caviae_quadruplex.png) | ![](./histograms/A_caviae_quadruplex.png)  |
+|  ![](./histograms/A_caviae_quadruplex.png) | ![](./histograms/A_caviae_quadruplex.png)  |
+| ![](./histograms/A_caviae_quadruplex.png)  |  |
+
+
 **Quadruplexes visualization**
 |   |   |
 |---|---|
