@@ -10,7 +10,7 @@ Organisms used: *Aeromonas caviae*, *Aeromonas dhakensis*, *Aeromonas encheleia*
 # overview table
 
 | Species  |  Genes number | Genome coverage | Genome length | Genome_plasmid length | Number of sequences |
-|---|--|--|---|
+|---|--|--|---|--|---|
 | A_caviae | 4182.0 | 87.89 | 4507652.00 | 4565788.00 | 2.00 |
 | A_dhakensis  | 4373.00 | 88.46  | 4771925.00 | 4771925.00 | 1.00 |
 | A_encheleia | 4232.00  | 87.57 | 4542521.00 | 4542521.00 | 1.00 |
