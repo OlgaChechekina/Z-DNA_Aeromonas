@@ -89,7 +89,7 @@ WP_024946079.1      YRELGFRPRQKLPDYYGHGQHAHRLVLALKQA-------
 |   |   |
 |---|---|
 | ![](./histograms/A_caviae_quadruplex.png) | ![](./histograms/A_dhakensis_quadruplex.png)  |
-|  ![](./histograms/A_encheleia_quadruplex.png) | ![](./histograms/A_hydrophila _quadruplex.png)  |
+| ![](./histograms/A_encheleia_quadruplex.png) | ![](./histograms/A_hydrophila_quadruplex.png)  |
 | ![](./histograms/A_media_quadruplex.png)  |  |
 
 
