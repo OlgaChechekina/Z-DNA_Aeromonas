@@ -24,7 +24,8 @@ Organisms used: *Aeromonas caviae*, *Aeromonas dhakensis*, *Aeromonas encheleia*
 |  ![](./histograms/A_hydrophila.png) | ![](./histograms/A_encheleia.png)  |
 | ![](./histograms/A_media.png)  |  |
 
-
+**homologuous clusters**
+![](./histograms/clusters.png)
 
 # Number of Z-DNA regions and Z-DNA length
 
