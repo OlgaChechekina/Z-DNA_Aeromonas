@@ -26,7 +26,7 @@ Organisms used: *Aeromonas caviae*, *Aeromonas dhakensis*, *Aeromonas encheleia*
 | Z-DNA length  | 73393	| 82446	| 74504	| 81658 |	68094 |
 
 
-**Расположение Z - ДНК в промотерах**
+**Z-DNA in promoters visualization**
 |   |   |
 |---|---|
 | ![](./visualization/cluster1.png) | ![](./visualization/cluster2.png)  |
