@@ -82,7 +82,7 @@ WP_024946079.1      YRELGFRPRQKLPDYYGHGQHAHRLVLALKQA-------
  
 </details>
 
-# Предсказание G-квадруплексов
+# G-quadruplexes prediction
 
 ## Number of quadruplex regions and quadruplex length
 
@@ -92,7 +92,7 @@ WP_024946079.1      YRELGFRPRQKLPDYYGHGQHAHRLVLALKQA-------
 | Quadruplex length  | 121057 |	91507 |	96600 |	85445 |	101636 |
 
 
-**aaa distribution**
+**Quadruplex scores**
 |   |   |
 |---|---|
 | ![](./histograms/A_caviae_quadruplex.png) | ![](./histograms/A_dhakensis_quadruplex.png)  |
