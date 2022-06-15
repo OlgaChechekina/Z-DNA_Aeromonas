@@ -17,6 +17,14 @@ Organisms used: *Aeromonas caviae*, *Aeromonas dhakensis*, *Aeromonas encheleia*
 | A_hydrophila  | 4370.00 | 88.42 | 4766062.00 | 4766062.00 | 1.00 |
 | A_media | 4183.00 | 87.77 | 4521851.00 | 4531033.00 | 2.00 |
 
+**aaaa distribution**
+|   |   |
+|---|---|
+| ![](./histograms/A_caviae.png) | ![](./histograms/A_dhakensis.png)  |
+|  ![](./histograms/A_hydrophila.png) | ![](./histograms/A_encheleia.png)  |
+| ![](./histograms/A_media.png)  |  |
+
+
 
 # Number of Z-DNA regions and Z-DNA length
 
@@ -80,9 +88,9 @@ WP_024946079.1      YRELGFRPRQKLPDYYGHGQHAHRLVLALKQA-------
 **aaa distribution**
 |   |   |
 |---|---|
-| ![](./histograms/A_caviae_quadruplex.png) | ![](./histograms/A_caviae_quadruplex.png)  |
-|  ![](./histograms/A_caviae_quadruplex.png) | ![](./histograms/A_caviae_quadruplex.png)  |
-| ![](./histograms/A_caviae_quadruplex.png)  |  |
+| ![](./histograms/A_caviae_quadruplex.png) | ![](./histograms/A_dhakensis_quadruplex.png)  |
+|  ![](./histograms/A_encheleia_quadruplex.png) | ![](./histograms/A_hydrophila _quadruplex.png)  |
+| ![](./histograms/A_media_quadruplex.png)  |  |
 
 
 **Quadruplexes visualization**
