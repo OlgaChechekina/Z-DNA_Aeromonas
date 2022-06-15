@@ -26,7 +26,7 @@ Organisms used: *Aeromonas caviae*, *Aeromonas dhakensis*, *Aeromonas encheleia*
 | Z-DNA length  | 73393	| 82446	| 74504	| 81658 |	68094 |
 
 
-**Z-DNA in promoters visualization**
+*Z-DNA in promoters visualization*
 |   |   |
 |---|---|
 | ![](./visualization/cluster1.png) | ![](./visualization/cluster2.png)  |
@@ -35,11 +35,11 @@ Organisms used: *Aeromonas caviae*, *Aeromonas dhakensis*, *Aeromonas encheleia*
 | ![](./visualization/cluster7.png)  | ![](./visualization/cluster8.png)   |
 
 
-## Multiple protein alignmentМножественно белковое выравнивание
+## Multiple protein alignment
 Files are in the folder *aligment*, one of alignements is provided here
 
 <details>
-<summary>Выравнивание для кластера №1</summary>
+<summary>Cluster 1 alignment</summary>
 
 ```
 WP_042880284.1      MLTVRAARADDLGAIVKLERYCFPPEVAFGRSRWHYLLNQAKGRTLLLQDEKAQVMGYVS
@@ -67,16 +67,9 @@ WP_024946079.1      YRELGFRPRQKLPDYYGHGQHAHRLVLALKQA-------
  
 </details>
 
-## Визуализация расположения Z - ДНК для кластеров
-
-![image](https://user-images.githubusercontent.com/60808830/173670718-2e1f2641-4c55-4f55-8378-80d32b166dd4.png)
-
-
 # Предсказание G-квадруплексов
-## G квадруплексы в промотерах
 
-
-# Number of quadruplex regions and quadruplex length
+## Number of quadruplex regions and quadruplex length
 
 | Species  |  A_caviae	| A_dhakensis |	A_encheleia	| A_hydrophila | A_media |
 |---|--|--|---|--|---|
